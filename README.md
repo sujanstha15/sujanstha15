@@ -58,7 +58,7 @@
 
 ## 🏆 Achievements & Certifications
 
-- AWS Certified Developer – Associate  
+- AWS AI Practicinor 
 - Winner, University Hackathon 2025  
 - Completed “Full-Stack Web Development with React & Spring Boot” course  
 
